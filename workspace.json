@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "ckeditor": "apps/ckeditor",
+    "ckeditor-e2e": "apps/ckeditor-e2e"
+  }
+}
